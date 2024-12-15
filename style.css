@@ -1,0 +1,31 @@
+body {
+    background-color: #141414; /* Dark background */
+    color: #fff; /* Text color */
+}
+.card {
+    background-color: #1f1f1f;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+.card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.btn {
+    background-color: #333;
+    color: #fff;
+    border: none;
+}
+.btn:hover {
+    background-color: #c0f111;
+    color: #141414;
+}
+.text{
+    color: #ceec21;
+    font-size: smaller;
+}
